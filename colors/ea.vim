@@ -21,6 +21,7 @@ highlight StatusLine guifg=blue		guibg=white
 highlight Statement  guifg=Yellow			gui=NONE
 highlight Type						gui=NONE
 highlight Folded guifg=white guibg=DarkBlue
+highlight Function guifg=red guibg=Black 
 "}}}
 "{{{ Console
 highlight Normal     ctermfg=LightGrey	ctermbg=Black
