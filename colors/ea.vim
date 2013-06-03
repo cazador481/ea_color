@@ -18,7 +18,8 @@ highlight Cursor     guifg=Black	guibg=Green	gui=bold
 highlight Special    guifg=Orange
 highlight Comment    guifg=#80a0ff
 highlight StatusLine guifg=blue		guibg=white
-highlight Statement  guifg=Yellow			gui=NONE
+highlight Statement  guifg=Yellow 
+"			gui=NONE
 highlight Type						gui=NONE
 highlight Folded guifg=white guibg=DarkBlue
 highlight Function guifg=red guibg=Black 
